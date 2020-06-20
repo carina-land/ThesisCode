@@ -6,11 +6,12 @@ This repository contains the code written to analyze the PetFinder dataset and b
 Master's Thesis Title: Data Science Appraoches to Predict the Chance of Adoption for Homeless Pets in Malaysia
 
 Contents:
-1. TrainTestSplit_FeatureEngineering_v1.py (Python)
-2. ImageQuality_Samples.ipynb
-3. DataImport_v2.md (R)
-4. DataExploration_v4.md (R)
-5. DataVis_PetNames_WordCloud.ipynb (Python)
-6. knn_v4.md (R)
-7. elnet_v4.md (R) logistic regression with elastic net regularization
-8. CatBoost_v2.py (Python)
+1. TrainTestSplit_FeatureEngineering_v1.py (Python): Data Import to Python & Feature Engineering
+2. ImageQuality_Samples.ipynb (Python Jupyter Notebook): Visualization of implemented image quality measures
+3. DataImport_v2.md (R Notebook) Data Import to R
+4. DataExploration_v4.md (R Notebook) Data Exploration, Visualization, First Feature Selection
+5. DataVis_PetNames_WordCloud.ipynb (Python Jupyter Notebook): WordCloud for Petnames
+6. knn_v4.md (R Notebook): k-nearest neighbors model & k-nearest neighbors model with SMOTE
+7. elnet_v4.md (R Notebook): logistic regression model with elastic net regularization
+8. RandomForest_v3.md (R Notebook): Random Forest model
+8. CatBoost_v2.py (Python): CatBoost model
