@@ -14,4 +14,4 @@ Contents:
 6. knn_v4.md (R Notebook): k-nearest neighbors model & k-nearest neighbors model with SMOTE
 7. elnet_v4.md (R Notebook): logistic regression model with elastic net regularization
 8. RandomForest_v3.md (R Notebook): Random Forest model
-8. CatBoost_v2.py (Python): CatBoost model
+9. CatBoost_v2.py (Python): CatBoost model
